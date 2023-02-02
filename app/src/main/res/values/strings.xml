@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">introducao ao firebase</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="titulo_form_login">Login do Usuário</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="text_botao_cadastrar">Cadastrar</string>
+    <string name="text_botao_deslogar">Sair</string>
+    <string name="text_botao_login">Entrar</string>
+    <string name="text_tela_cadastro">Não tem uma conta? Cadastre-se!</string>
+    <string name="text_tela_login">Já tem conta? Faça login!</string>
+</resources>

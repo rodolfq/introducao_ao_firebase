@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061237696452",
+    "project_id": "introducao-ao-firebase",
+    "storage_bucket": "introducao-ao-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061237696452:android:4606996801ce085e4e6691",
+        "android_client_info": {
+          "package_name": "com.rquintanilha.tutorial.introducaoaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061237696452-4ink9fb6s2dr2h37o603d4j5csrgv6ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzwLzSMMQ0KmkbaeYAy9IR_dJHLiLVzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061237696452-4ink9fb6s2dr2h37o603d4j5csrgv6ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
