@@ -1,4 +1,4 @@
-# introducao_ao_firebase
+# Introducao ao Firebase
 
 Um app para testar funções de cadastro/login utilizando firebase. 
 Basicamente uma tela de cadastro, seguida de login.
